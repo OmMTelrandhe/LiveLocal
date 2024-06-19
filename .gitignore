@@ -1,0 +1,19 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-*
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/cache/
+wp-content/ai1wm-backups/
+# Logs
+*.log
+# OS
+.DS_Store
+Thumbs.db
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
